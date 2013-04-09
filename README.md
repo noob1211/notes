@@ -1,1 +1,1 @@
-[see the wiki](https://github.com/bkiers/notes/wiki)
+[wiki](https://github.com/bkiers/notes/wiki)
